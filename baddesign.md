@@ -8,6 +8,10 @@ The Williams College Course Catalog available on PeopleSoft is an good example o
 
 ![ccatalog](/img/ccatalog.png)
 
+Moreover, the spacing makes it difficult to distinguish between the different courses offered. In this catalog search, classes are listed by the four digit class number followed by section, room, and instructor. Oliver Reichenstein argues that both intuition and perspective are important when deciding whether or not some perceive a design to be good or bad. It would make more sense for the instructor to be near the front of the list. 
+
+![ccatalog](/img/c1b.png)
+
 
 
 

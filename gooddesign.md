@@ -10,6 +10,7 @@ At first glance, we can see that courses are categorized based on majors, concen
 
 
 ![coursecatalog](/img/coursecatalog.png)
+![c1](/img/c1.png)
 
 
 

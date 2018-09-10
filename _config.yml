@@ -24,8 +24,8 @@ description: HCI 376
 # List of links in the navigation bar
 navbar-links:
   Assignments:
-    - Good Design: "gooddesign" 
-    - Bad Design: "baddesign" 
+    - Good Design: "good-design" 
+    - Bad Design: "bad-design" 
   About Me: "aboutme"
   
 

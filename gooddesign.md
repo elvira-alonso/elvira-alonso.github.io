@@ -4,6 +4,6 @@ title: Good Design
 subtitle: Williams College Course Catalog 
 ---
 
-![coursecatalog](/path/to/coursecatalog.png){:class="img-responsive"}
+![coursecatalog](/path/to/img/coursecatalog.png)
 
 

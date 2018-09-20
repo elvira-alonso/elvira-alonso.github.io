@@ -26,6 +26,7 @@ navbar-links:
   Assignments:
     - Good Design: "good-design" 
     - Bad Design: "bad-design" 
+    - Project Proposal: "project-proposal" 
   About Me: "aboutme"
   
 

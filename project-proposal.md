@@ -10,5 +10,10 @@ However, a particular exhibit at WCMA, the first one located to your right, Anic
 
 … exploring senses… or more like exploiting senses to get the full picture… some questions that may arise is whether or not setting the mood is limiting one’s interpretation of work// no longer an intimate experience. 
 
+![pic2](/img/pic2.jpg) 
+
+
 I began to wonder, if I were to take my grandparents to WCMA, or any other museum, will their experiences be comparable to mine. There’s a certain group of people we didn’t really discuss in class, the visually impaired. 
+
+
 

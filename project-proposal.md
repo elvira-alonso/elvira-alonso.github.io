@@ -19,7 +19,7 @@ Yet, museums are _visually oriented_. Sight is the one sense we depend on the mo
 
 Exploring senses is an innovative solution WCMA has adopted through certain exhibts. However, how can this become universal; how can we enhace experiences for the visually impaired? 
 
-(1) https://wcma.williams.edu/anicka-yi-our-love-is-bigger-than-an-aids-quilt/
+(1) [https://wcma.williams.edu/anicka-yi-our-love-is-bigger-than-an-aids-quilt/] (https://wcma.williams.edu/anicka-yi-our-love-is-bigger-than-an-aids-quilt/)
 
 (2) http://news.mit.edu/2015/anicka-yi-olfactory-art-0728
 

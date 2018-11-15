@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Research Paper Report    
-subtitle: Learning from Interactive Museum Installations About Interaction Design for Public Settings    
+title: Research Paper Report        
 ---
+## "Learning from Interactive Museum Installations About Interaction Design for Public Settings" 
 
-This was written by Eva Hornecker and Matthias Stifter for the OZCHI '06 Proceedings of the 18th Australia conference on Computer-Human Interaction: Design: Activities, Artefacts and Environments. This paper discusses the results of a case study about museum installations and how these can make museum visits engaging for visitors. The installations evaluated were a part of the 'medien.welton' exhibition at the Austrian Technical Museum in Vienna. Those who conducted the evaluation were part of the IGW Institute of TU Vienna. The exhibit is composed of various types of interactive installations: five touch screens that serve to offer an overview of the exhibit and six information terminals for exploration. The reason for many installations in a single exhibit is to make "interaction a part of its 'message'" (135). 
+This paper was written by Eva Hornecker and Matthias Stifter for the OZCHI '06 Proceedings of the 18th Australia conference on Computer-Human Interaction: Design: Activities, Artefacts and Environments. This paper discusses the results of a case study about museum installations and how these can make museum visits engaging for visitors. The installations evaluated were a part of the 'medien.welton' exhibition at the Austrian Technical Museum in Vienna. Those who conducted the evaluation were part of the IGW Institute of TU Vienna. The exhibit is composed of various types of interactive installations: five touch screens that serve to offer an overview of the exhibit and six information terminals for exploration. The reason for many installations in a single exhibit is to make "interaction a part of its 'message'" (135). The methods of evaluation included open observations which are reminiscent of the fly on the wall observations we conducted at the start of this project. 30 semi-structured interviews were also conducted with a representative sample of visitors. Some of the questions asked involved overall user experience and improvements that can be done. It was discovered that most visitors spend about two minutes figuring out how to use the installations before they give up or spend time using them. 
 
-
- 
+The discoveries of this case study are actually very important to our project. Some visitors felt overwhelmed by the amount of text and information displayed on the installations. From the interviews conducted, some suggested that they would prefer to read this information next to the exhibits. Though I would argue that our interative smartboard/installation is less wordier than what the installations discussed contained, it serves as a good question to ask ourselves: would users feel overwhelmed using our design? Based on the usability tests we conducted, the answer to this question for our design is no. Another suggestion that came up in this case study is that users would prefer to take content home. An interesting idea that just popped to mind is if we could somehow invorparate that aspect to our design. Though I feel that it is too late to do that now, if a person was tully interested about a particular exhibit, they could have the option to receive texts about other users' comments. 
  
  
  Here is the [link](https://dl.acm.org/citation.cfm?id=1228201) to download the pdf. 

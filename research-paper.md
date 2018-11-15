@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Individual Research Paper   
+title: Research Paper Report    
 subtitle: "Learning from interactive museum installations..."     
 ---
-
-## Ok  
+ 

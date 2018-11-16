@@ -10,6 +10,7 @@ The methods of evaluation included open observations and 30 semi-structured inte
 
 The discoveries of this case study are actually very important to our project. Though we were only required to conduct heuristic evaluations, walkthroughs, and usability tests, the results of these tests suggest that users do feel overwhelmed when there is a lot of text on screens. Some visitors felt overwhelmed by the amount of text and information displayed on the installations. From the interviews conducted, some suggested that they would prefer to read this information next to the exhibits. Though I would argue that our interactive smartboard/installation is less wordier than what the installations discussed, it serves as a good question to ask ourselves: would users feel overwhelmed using our design? Based on the usability tests we conducted, the answer to this question for our design is no. Another suggestion that came up in this case study is that users would prefer to take content home. An interesting idea that just popped to mind is if we could somehow incorporate that aspect to our design. Though I feel that it is too late to do that now, if a person was truly interested about a particular exhibit, they could have the option to receive texts about other users’ comments. At one point our design also lacked creativity which made it less engaging, so yes, I do believe that their points are valid. 
 
- 
+
+Hornecker, Eva, and Matthias Stifter. "Learning from interactive museum installations about interaction design for public settings." Proceedings of the 18th Australia conference on Computer-Human Interaction: Design: Activities, Artefacts and Environments. ACM, 2006.
  
  Here is the [link](https://dl.acm.org/citation.cfm?id=1228201) to download the pdf. 

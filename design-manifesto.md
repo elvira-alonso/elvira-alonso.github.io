@@ -25,4 +25,18 @@ For this course specifically, at first I was interested in making museums more a
 We were interested in making museums more accessible, but *accessible to whom*? 
 
 
+## Understand Your Users 
+
+At first, we did not know who our users were, besides museum visitors. It took several iterations of our design to figure out who we were designing for. 
+
+Thus, once you’ve narrowed your scope, it is essential that you use your users as a resource throughout the entire design process. Understanding and knowing who you are designing for is perhaps the most crucial aspect of the design process. For this class, our task was to incorporate technology into museums. Incorporating technology to make museums more accessible is a problem my group and I were willing to design for. Once you know what you want to solve, talking to potential users will facilitate the design process. 
+
+From the two contextual inquiries and three [semi-structured interviews](https://museumsforall.github.io/2018-10-04-contextual-inquiry-review/) we conducted we were not only able to narrow down our scope but also we were able to answer the question *who are we designing for*?  
+
+However, one should keep in mind that what users say they want is not necessarily what they need. Unfortunately, this is a mistake our group made after we conducted a few contextual inquiries and semi-structured interviews. 
+
+Although we were able to hone the question we wanted to answer to how can we make museums more accessible for *people of color*? From this data we assumed that what people wanted was a discussion forum in which they can express their feelings and interpretations about art. We failed to think of an innovative and inclusive way of doing so. As can be seen in our [initial paper prototype](https://museumsforall.github.io/2018-10-29-Paper-Prototype/) where we just have users input their thoughts/comments into the discussion section. 
+
+A fellow peer and our professor raised the question if this would either help or further complicate the situation; “how can we be sure that those who we are designing for use this design?” Based on the mixed reviews we received from this paper prototype, we decided to [redesign](https://museumsforall.github.io/2018-11-01-Design-Review-Revision/) and conduct further research. Thus, the lesson learned was to not go with an idea a user suggests during a contextual inquiry, unless you have enough evidence to support that suggestion. 
+
 

@@ -23,6 +23,7 @@ description: HCI 376
 
 # List of links in the navigation bar
 navbar-links:
+  Design Manifesto: "design-manifesto" 
   Assignments:
     - Good Design: "good-design" 
     - Bad Design: "bad-design" 

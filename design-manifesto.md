@@ -101,9 +101,6 @@ Other techniques worth considering, include but are not limited to **eyetracking
 
 At the end, we were able to put all the puzzle pieces together to create our initial video prototype. 
 
-<p align="center">
-{% include youtube_embed.html id="aaLs1GvnKQ4" %}
-</p>
 
 ## Hold Yourself Accountable 
 Once you are done with your design, in our case being the final video prototype, it is important to be aware of possible consequences that may result from your design. When these malfunctions or errors come about, hold yourself accountable. A creation is like a child, a child we don’t fully understand yet. It is one’s responsibility to care for and look after this child. I want to believe that most parents would assume the responsibility of whatever wrong or right comes out of their children. Thus, designers must do the same. 

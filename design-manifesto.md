@@ -8,9 +8,9 @@ subtitle: Museums for All
 Designing for others is neither a simple nor quick task. It requires careful considerations and thinking *outside the box*. As someone who has never been a part of a design team prior to Professor Howley’s Human-Computer Interaction course, there are many concepts of user design I found useful and others that I did not. One of our main goals for this class was to incorporate technology into museums. Our group’s design revolves around making museums more accessible, specifically to people of color who often find it difficult to express their feelings about artwork due to its lack of engaging content. We experienced both positive and negative aspects I will discuss below, and from these experiences I was able to compile a list of the five key takeaways from this class that can be applied to the user design process. 
   
 # Essential Aspects of the Design Process
+* What is Your Scope?  
 * Understand Your Users
-* Narrow Your Scope 
-* Use Your Time Wisely 
+* Manage Your Time Wisely 
 * Use Multiple Design Methods 
 * Hold Yourself Accountable 
 
@@ -47,7 +47,7 @@ Although we were able to hone the question we wanted to answer to how can we mak
 
 A fellow peer and our professor raised the question if this would either help or further complicate the situation; “how can we be sure that those who we are designing for use this design?” Based on the mixed reviews we received from this paper prototype, we decided to [redesign](https://museumsforall.github.io/2018-11-01-Design-Review-Revision/) and conduct further research. Thus, the lesson learned was to not go with an idea a user suggests during a contextual inquiry, unless you have enough evidence to support that suggestion. 
 
-## Use Your Time Wisely 
+## Manage Your Time Wisely 
 Sometimes during the design process, time would become distorted. I was under the impression that I had more than enough time to complete tasks but deadlines can not be changed unless extensions are permissible. As an amateur it was hard for me to grasp onto the period allotted for designing, but once you know who you are designing for and what you are trying to solve, creating a list of achievable goals is a way to help you stay on track. These goals are generalized versions of your tasks. Our user design process in its most generalized form was as follows:
 * Project Proposals 
 * Research 
@@ -75,9 +75,7 @@ The following lists the various techniques used throughout our design process:
 </p>
 
 After analyzing our data we proceeded to creating task sketches that helped us create our initial paper prototype. 
-
 We used the following methods to evaluate our prototype. 
-
 
 ### Testing Design 
 * *Heuristic Evaluations*

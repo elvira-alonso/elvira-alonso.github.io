@@ -24,7 +24,7 @@ For this course specifically, at first I was interested in making museums more a
 
 We were interested in making museums more accessible, but *accessible to whom*? 
 
-![WCMA](img\museum.png)
+![WCMA](/img/museum.png)
 
 
 ## Understand Your Users 

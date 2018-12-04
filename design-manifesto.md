@@ -41,6 +41,10 @@ However, one should keep in mind that what users say they want is not necessaril
 
 Although we were able to hone the question we wanted to answer to how can we make museums more accessible for *people of color*? From this data we assumed that what people wanted was a discussion forum in which they can express their feelings and interpretations about art. We failed to think of an innovative and inclusive way of doing so. As can be seen in our [initial paper prototype](https://museumsforall.github.io/2018-10-29-Paper-Prototype/) where we just have users input their thoughts/comments into the discussion section. 
 
+<p align="center">
+  <img src="/img/overview.jpeg">
+</p>
+
 A fellow peer and our professor raised the question if this would either help or further complicate the situation; “how can we be sure that those who we are designing for use this design?” Based on the mixed reviews we received from this paper prototype, we decided to [redesign](https://museumsforall.github.io/2018-11-01-Design-Review-Revision/) and conduct further research. Thus, the lesson learned was to not go with an idea a user suggests during a contextual inquiry, unless you have enough evidence to support that suggestion. 
 
 ## Use Your Time Wisely 
@@ -68,6 +72,9 @@ The following lists the various techniques used throughout our design process:
 
 ### Analyzing Data 
 *Affinity Diagrams* 
+<p align="center">
+  <img src="/img/affinity.JPG">
+</p>
 
 ### Testing Design 
 *Heuristic Evaluations*
@@ -75,6 +82,12 @@ The following lists the various techniques used throughout our design process:
 *Cognitive Walkthroughs*
 
 *Usability Testing* 
+
+Our final paper prototype: 
+
+<p align="center">
+  <img src="/img/overview_revised.JPG">
+</p>
 
 Other techniques worth considering, include but are not limited to **eyetracking**, **customer feedback**, **A/B testing** and **card sorting**. Further readings were done in class about these specific methods. Eyetracking would have been useful during the initial stages of our paper prototype. We had users think out loud during usability testing as they were completing the assigned tasks but having a more accurate trace of where users placed their eyes first would have been helpful when revising our prototype. To complement this method, A/B testing could have pointed minor revisions to be made between two versions of the same design. For immediate results, customer feedback is a quick way to get input from users about a design whether through an online form or in person conversation. Needless to stay, using 1-3 design methods per stage in the design process can help you collect and understand the data you gather and get feedback on your design. 
 

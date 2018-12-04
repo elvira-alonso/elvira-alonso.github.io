@@ -87,5 +87,7 @@ Though not directly related to our actual design, this ethic violation is direct
 
 Ethic violations should be greatly considered. If you feel that your design may result in a violation of some sort it is best to inform others of this potential harm. It is our responsibility as designers and developers. 
 
+# Conclusion 
+Overall, it is safe to say that user design and research is a worthwhile experience. From the initial stages to the final product, one can see the various stages of the design and their implications. 
 
 

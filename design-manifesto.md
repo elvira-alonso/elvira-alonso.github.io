@@ -4,10 +4,10 @@ title: Design Manifesto
 subtitle: Museums for All 
 ---
 
-## Overview 
+# Overview 
 Designing for others is neither a simple nor quick task. It requires careful considerations and thinking *outside the box*. As someone who has never been a part of a design team prior to Professor Howley’s Human-Computer Interaction course, there are many concepts of user design I found useful and others that I did not. One of our main goals for this class was to incorporate technology into museums. Our group’s design revolves around making museums more accessible, specifically to people of color who often find it difficult to express their feelings about artwork due to its lack of engaging content. We experienced both positive and negative aspects I will discuss below, and from these experiences I was able to compile a list of the five key takeaways from this class that can be applied to the user design process. 
   
-## Essential Aspects of the Design Process
+# Essential Aspects of the Design Process
 * Understand Your Users
 * Narrow Your Scope 
 * Use Your Time Wisely 

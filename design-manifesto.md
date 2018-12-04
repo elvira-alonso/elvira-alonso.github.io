@@ -55,3 +55,24 @@ Sometimes during the design process, time would become distorted. I was under th
 
 I would say that all aspects of the user design process can be time consuming if not planned carefully. The goal is to be efficient. Most of the tasks accomplished required interactions with users. Planning those ahead of time was a way our group was able to balance responsibilities and deadlines. 
 
+## Use Multiple Design Methods 
+Along with managing your time, deciding what design methods to use throughout the design process can narrow down your focus as well. Using multiple design methods allows for data to present itself in various forms which can be easier to collect, interpret, and test. 
+
+The following lists the various techniques used throughout our design process: 
+
+### Collecting Data 
+** Contextual Inquiries **
+
+** Semi-structured Interviews ** 
+
+
+### Analyzing Data 
+** Affinity Diagrams ** 
+
+### Testing Design 
+** Heuristic Evaluations **
+
+** Cognitive Walkthroughs **
+
+** Usability Testing ** 
+

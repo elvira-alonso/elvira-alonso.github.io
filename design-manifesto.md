@@ -61,18 +61,18 @@ Along with managing your time, deciding what design methods to use throughout th
 The following lists the various techniques used throughout our design process: 
 
 ### Collecting Data 
-** Contextual Inquiries **
+*Contextual Inquiries*
 
-** Semi-structured Interviews ** 
+*Semi-structured Interviews* 
 
 
 ### Analyzing Data 
-** Affinity Diagrams ** 
+*Affinity Diagrams* 
 
 ### Testing Design 
-** Heuristic Evaluations **
+*Heuristic Evaluations*
 
-** Cognitive Walkthroughs **
+*Cognitive Walkthroughs*
 
-** Usability Testing ** 
+*Usability Testing* 
 

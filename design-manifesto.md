@@ -39,4 +39,15 @@ Although we were able to hone the question we wanted to answer to how can we mak
 
 A fellow peer and our professor raised the question if this would either help or further complicate the situation; “how can we be sure that those who we are designing for use this design?” Based on the mixed reviews we received from this paper prototype, we decided to [redesign](https://museumsforall.github.io/2018-11-01-Design-Review-Revision/) and conduct further research. Thus, the lesson learned was to not go with an idea a user suggests during a contextual inquiry, unless you have enough evidence to support that suggestion. 
 
+## Use Your Time Wisely 
+Sometimes during the design process, time would become distorted. I was under the impression that I had more than enough time to complete tasks but deadlines can not be changed unless extensions are permissible. As an amateur it was hard for me to grasp onto the period allotted for designing, but once you know who you are designing for and what you are trying to solve, creating a list of achievable goals is a way to help you stay on track. These goals are generalized versions of your tasks. Our user design process in its most generalized form was as follows:
+* Project Proposals 
+* Research 
+* Contextual Inquiries/ Interviews 
+* Paper Prototypes
+* Evaluations/ Tests/ Feedback
+* Digital Mockup
+* Video Prototype 
+
+I would say that all aspects of the user design process can be time consuming if not planned carefully. The goal is to be efficient. Most of the tasks accomplished required interactions with users. Planning those ahead of time was a way our group was able to balance responsibilities and deadlines. 
 

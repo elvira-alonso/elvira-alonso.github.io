@@ -100,6 +100,9 @@ This paper prototype led to the creation of our digital mockup (high-fidelity):
 Other techniques worth considering, include but are not limited to **eyetracking**, **customer feedback**, **A/B testing** and **card sorting**. Further readings were done in class about these specific methods. Eyetracking would have been useful during the initial stages of our paper prototype. We had users think out loud during usability testing as they were completing the assigned tasks but having a more accurate trace of where users placed their eyes first would have been helpful when revising our prototype. To complement this method, A/B testing could have pointed minor revisions to be made between two versions of the same design. For immediate results, customer feedback is a quick way to get input from users about a design whether through an online form or in person conversation. Needless to stay, using 1-3 design methods per stage in the design process can help you collect and understand the data you gather and get feedback on your design in a more useful manner. 
 
 At the end, we were able to put all the puzzle pieces together to create our initial video prototype. 
+<p align="center">
+{% include youtube_embed.html id="aaLs1GvnKQ4" %}
+</p>
 
 
 ## Hold Yourself Accountable 

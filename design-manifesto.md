@@ -78,4 +78,14 @@ The following lists the various techniques used throughout our design process:
 
 Other techniques worth considering, include but are not limited to **eyetracking**, **customer feedback**, **A/B testing** and **card sorting**. Further readings were done in class about these specific methods. Eyetracking would have been useful during the initial stages of our paper prototype. We had users think out loud during usability testing as they were completing the assigned tasks but having a more accurate trace of where users placed their eyes first would have been helpful when revising our prototype. To complement this method, A/B testing could have pointed minor revisions to be made between two versions of the same design. For immediate results, customer feedback is a quick way to get input from users about a design whether through an online form or in person conversation. Needless to stay, using 1-3 design methods per stage in the design process can help you collect and understand the data you gather and get feedback on your design. 
 
+## Hold Yourself Accountable 
+Once you are done with your design, it is important to be aware of possible consequences that may result from your design. When these malfunctions or errors come about, hold yourself accountable. A creation is like a child, a child we don’t fully understand yet. It is one’s responsibility to care for and look after this child. I want to believe that most parents would assume the responsibility of whatever wrong or right comes out of their children. Thus, designers must do the same. 
+
+In class we discussed various ethic violations that resulted from malfunctions or an unexpected byproduct of a design such as user data collection. One that left a strong impression on me was [“Machine Bias…”](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing). This article discussed the unreliability of risk assessment in predicting the likelihood of a defendant committing future crimes, especially those who are non-white. Risk assessments/scores often times mislabel white defendants as low risk while black defendants get higher scores.
+
+Though not directly related to our actual design, this ethic violation is directly related to the population we are designing for. Our design aims at raising awareness to discussions people of color may be uncomfortable being a part of. Our goal is for people to find art engaging through our installation. There is more to artwork than the visuals; the narratives discussed are a part of the story as well. 
+
+Ethic violations should be greatly considered. If you feel that your design may result in a violation of some sort it is best to inform others of this potential harm. It is our responsibility as designers and developers. 
+
+
 
